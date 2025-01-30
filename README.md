@@ -51,3 +51,15 @@ During this task, I encountered several challenges, including:
 Conclusion:
 
 Completing this joins practice task in SQL has significantly enhanced my skills and confidence in working with complex data sets. I've gained a deeper understanding of join types, filtering, and aggregation, which will enable me to tackle more challenging projects in the future.
+**OUTPUTS OF THE TASK PERFORMED
+![Image](https://github.com/user-attachments/assets/897072c3-2362-460b-a99a-a3c4ac59e8c9)
+
+![Image](https://github.com/user-attachments/assets/dfa56d69-6eb2-46ea-b1ab-ecfd4f1325ad)
+
+![Image](https://github.com/user-attachments/assets/04fdc901-619a-4919-8734-db8dc752c62f)
+
+![Image](https://github.com/user-attachments/assets/ea60c4e3-f593-4f3e-830d-c62d80395627)
+
+![Image](https://github.com/user-attachments/assets/8dce20ef-d591-4851-abb0-b273b004793f)
+
+
